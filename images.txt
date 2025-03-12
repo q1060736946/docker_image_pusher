@@ -4,3 +4,9 @@ opengrok/docker
 --platform=linux/arm64 xiaoyaliu/alist
 
 --platform=linux/arm64 arm64v8/openjdk:8-jdk
+
+# 模板一
+xhofe/alist:latest
+
+# 模板二
+--platform=linux/arm64 xiaoyaliu/alist
