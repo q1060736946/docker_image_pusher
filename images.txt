@@ -1,4 +1,5 @@
 nginx
+clickhouse:24-jammy@sha256:b7b9951c19ff195b1e6b832ef8679a46605a96ee5ec36cf8d94f199c30d810b8
 
 #支持私库
 opengrok/docker
@@ -8,3 +9,4 @@ opengrok/docker
 --platform=linux/arm64 arm64v8/openjdk:8-jdk
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 clickhouse:24-jammy
+
