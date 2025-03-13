@@ -6,7 +6,7 @@ clickhouse:24-jammy@sha256:b7b9951c19ff195b1e6b832ef8679a46605a96ee5ec36cf8d94f1
 opengrok/docker
 
 #支持指定架构
-987846/jdk1.8:arm64
+--platform=linux/arm64 987846/jdk1.8:arm64
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 arm64v8/openjdk:8-jdk
 --platform=linux/arm64 xiaoyaliu/alist
