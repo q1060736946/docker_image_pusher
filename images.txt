@@ -9,4 +9,5 @@ opengrok/docker
 --platform=linux/arm64 arm64v8/openjdk:8-jdk
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 clickhouse:24-jammy
+--platform=linux/arm64 987846/jdk1.8
 
