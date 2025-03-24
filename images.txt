@@ -2,7 +2,7 @@ nginx
 clickhouse:24-jammy@sha256:b7b9951c19ff195b1e6b832ef8679a46605a96ee5ec36cf8d94f199c30d810b8
 987846/jdk1.8
 nacos/nacos-server:2.0.4-slim
-
+bitnami/minio:2023.2.22@sha256:cd7ce8e853ada9b7e4ff948ad043830a32181c26559523585e8b31727a86d76d
 #支持私库
 opengrok/docker
 
