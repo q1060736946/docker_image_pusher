@@ -16,6 +16,6 @@ opengrok/docker
 --platform=linux/arm64 nacos/nacos-server:2.0.4-slim
 --platform=linux/arm64 minio/minio
 --platform=linux/arm64 minio/minio:RELEASE.2022-10-15T19-57-03Z
---platform=linux/arm64 bitnami/minio:2023.2.22
+--platform=linux/arm64 bitnami/minio:2023.2.22@sha256:cd7ce8e853ada9b7e4ff948ad043830a32181c26559523585e8b31727a86d76d
 
 
