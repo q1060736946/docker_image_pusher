@@ -17,5 +17,6 @@ opengrok/docker
 --platform=linux/arm64 nacos/nacos-server:2.0.4-slim
 --platform=linux/arm64 minio/minio
 --platform=linux/arm64 minio/minio:RELEASE.2022-10-15T19-57-03Z
---platform=linux/arm64 antrea/clickhouse-server
+--platform=linux/arm64 bitnami/minio:2023.2.22
+
 
