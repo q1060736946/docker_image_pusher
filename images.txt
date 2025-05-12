@@ -8,7 +8,7 @@ bitnami/minio:2023.2.27@sha256:ba8e7555fa7b8c5184576f452849a87c3868765e419b4b7b8
 ubuntu:22.04
 ubuntu:24.04
 postgres:13
-
+sonarqube:community
 #支持私库
 opengrok/docker
 
