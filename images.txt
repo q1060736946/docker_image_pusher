@@ -27,5 +27,5 @@ opengrok/docker
 --platform=linux/arm64 bitnami/minio:2023.2.27@sha256:ba8e7555fa7b8c5184576f452849a87c3868765e419b4b7b8a8faf6446dab443
 --platform=linux/arm64 antrea/clickhouse-server
 --platform=linux/arm64 mongo:noble
---platform=mongodb/mongodb-community-server:7.0.20-ubuntu2204@sha256:a5b0db09f6937fbf2a808b8c3c7cc6d031c1ac16a1ab68231ac55f7763dff758
+--platform=linux/arm64 mongodb/mongodb-community-server:7.0.20-ubuntu2204@sha256:a5b0db09f6937fbf2a808b8c3c7cc6d031c1ac16a1ab68231ac55f7763dff758
 
