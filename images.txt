@@ -28,4 +28,6 @@ opengrok/docker
 --platform=linux/arm64 antrea/clickhouse-server
 --platform=linux/arm64 mongo:noble
 --platform=linux/arm64 mongodb/mongodb-community-server:7.0.20-ubuntu2204@sha256:a5b0db09f6937fbf2a808b8c3c7cc6d031c1ac16a1ab68231ac55f7763dff758
+--platform=linux/arm64 nginx:1.27-bookworm-otel@sha256:cf21bfd02c748a9091137344258061823d0b1c1f7cc1a9896512376ef6b86f07
+--platform=linux/arm64 mongodb/mongodb-enterprise-server:7.0.21-ubuntu2204@sha256:ce57400958ae4ffaa05f8f67a7e82e6fc39d83efa0458b44eef5fc24e054e3b1
 
