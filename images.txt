@@ -12,6 +12,7 @@ sonarqube:community
 #支持私库
 opengrok/docker
 
+
 tonistiigi/binfmt
 moby/buildkit:buildx-stable-1
 rust:1-alpine
