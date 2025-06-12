@@ -14,6 +14,8 @@ opengrok/docker
 
 tonistiigi/binfmt
 moby/buildkit:buildx-stable-1
+rust:1-alpine
+alpine:3.21.3
 
 #支持指定架构
 --platform=linux/arm64 987846/jdk1.8:arm64
