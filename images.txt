@@ -19,6 +19,7 @@ rust:1-alpine
 alpine:3.21.3
 
 #支持指定架构
+--platform=linux/arm64 selenium/standalone-chrome
 --platform=linux/arm64 987846/jdk1.8:arm64
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 arm64v8/openjdk:8-jdk
