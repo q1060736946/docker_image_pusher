@@ -12,7 +12,7 @@ sonarqube:community
 #支持私库
 opengrok/docker
 minio/minio:latest
-
+bitnami/minio:2023.2.22
 tonistiigi/binfmt
 moby/buildkit:buildx-stable-1
 rust:1-alpine
