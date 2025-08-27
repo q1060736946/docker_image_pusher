@@ -17,9 +17,12 @@ moby/buildkit:buildx-stable-1
 rust:1-alpine
 alpine:3.21.3
 minio/minio:RELEASE.2023-02-22T18-23-45Z
+
+
 #支持指定架构
 --platform=linux/arm64 seleniarm/standalone-chromium:latest@sha256:d644a5f679e83e63344cee11c08fc2c7bf4acf43217434a8621a2bc85f7473a5
 
+seleniarm/standalone-chromium:latest@sha256:d644a5f679e83e63344cee11c08fc2c7bf4acf43217434a8621a2bc85f7473a5
 --platform=linux/arm64 selenium/standalone-chromium:nightly
 --platform=linux/arm64 987846/jdk1.8:arm64
 --platform=linux/arm64 xiaoyaliu/alist
