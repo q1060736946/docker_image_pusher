@@ -18,6 +18,7 @@ rust:1-alpine
 alpine:3.21.3
 minio/minio:RELEASE.2023-02-22T18-23-45Z
 #支持指定架构
+--platform=linux/arm64 selenium/standalone-firefox:nightly@sha256:30cd7db946f13608d51e4b482bd94b85667fc80f15330953b7fb78e126ffafb2
 --platform=linux/arm64 selenium/standalone-chrome
 --platform=linux/arm64 987846/jdk1.8:arm64
 --platform=linux/arm64 xiaoyaliu/alist
